@@ -30,7 +30,6 @@ The Random Forest model demonstrates strong performance in identifying churn pat
 Feature importance analysis highlights key drivers of churn, enabling data-driven business decisions.
 📌 How to Run
 Clone the repository
-git clone https://github.com/your-username/Churn-Prediction-RandomForest.git
 cd Churn-Prediction-RandomForest
 Install dependencies
 pip install -r requirements.txt
